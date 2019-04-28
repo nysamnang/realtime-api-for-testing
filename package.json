@@ -1,0 +1,32 @@
+{
+  "name": "realtime-api-for-testing",
+  "version": "1.0.0",
+  "description": "Realtime API for testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "10.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nysamnang/realtime-api-for-testing.git"
+  },
+  "keywords": [],
+  "author": "NY Samnang",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/nysamnang/realtime-api-for-testing/issues"
+  },
+  "homepage": "https://github.com/nysamnang/realtime-api-for-testing#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.16.4",
+    "helmet": "^3.16.0",
+    "mongoose": "^5.5.4",
+    "socket.io": "^2.2.0",
+    "swagger-ui-express": "^4.0.2"
+  }
+}
