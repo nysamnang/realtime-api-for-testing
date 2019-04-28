@@ -2,7 +2,8 @@
   "swagger": "2.0",
   "info": {
     "version": "1.0.0",
-    "title": "Realtime API for testing"
+    "title": "Realtime API for testing",
+    "description": "A simple realtime CRUD operatoin for manage user information."
   },
   "basePath": "/api/v1",
   "tags": [{ "name": "Users" }],
