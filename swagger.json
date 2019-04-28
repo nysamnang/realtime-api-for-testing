@@ -3,7 +3,7 @@
   "info": {
     "version": "1.0.0",
     "title": "Realtime API for testing",
-    "description": "A simple realtime CRUD operatoin for manage user information."
+    "description": "A simple realtime CRUD operation for manage user information."
   },
   "basePath": "/api/v1",
   "tags": [{ "name": "Users" }],
