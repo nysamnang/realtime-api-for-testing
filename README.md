@@ -1,6 +1,6 @@
 # realtime-api-for-testing
 
-A simple realtime CRUD operatoin for manage user information.
+A simple realtime CRUD operation for manage user information.
 
 - API Doc: http://realtime-api-for-testing.herokuapp.com/api-docs/
 - Demo App: https://snack.expo.io/@nysamnang/testing-realtime-api
