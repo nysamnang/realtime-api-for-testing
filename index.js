@@ -19,7 +19,7 @@ app.use("/api/v1", router);
 
 mongoose
   .connect(
-    "mongodb://demo:demo123@ds064278.mlab.com:64278/realtime-api-for-testing",
+    "mongodb+srv://demo:demo123@realtimeapifortesting.sdy4l.mongodb.net/RealTimeAPIForTesting?retryWrites=true&w=majority",
     {
       useCreateIndex: true,
       useNewUrlParser: true

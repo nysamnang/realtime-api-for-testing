@@ -24,7 +24,7 @@ A simple realtime CRUD operation for manage user information.
 
 - Node.js
 - Heroku
-- mLab
+- MongoDB Atlas
 - Swagger UI
 
 ## Author
