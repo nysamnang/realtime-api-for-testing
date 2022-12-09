@@ -23,7 +23,7 @@
   "homepage": "https://github.com/nysamnang/realtime-api-for-testing#readme",
   "dependencies": {
     "compression": "^1.7.4",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "helmet": "^3.16.0",
     "mongoose": "^5.5.4",
     "socket.io": "^2.2.0",
